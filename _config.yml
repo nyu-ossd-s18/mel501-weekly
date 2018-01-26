@@ -20,13 +20,13 @@ avatar: https://avatars2.githubusercontent.com/u/35243561?s=200&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
+  dribbble: melello
+  email: melissa.lopez@nyu.edu
   facebook:
   flickr:
   github: nyu-ossd-s18
-  instagram:
-  linkedin:
+  instagram: melello
+  linkedin: in/melissa-lopez
   pinterest:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -36,11 +36,11 @@ footer-links:
 # CUSTOMIZE
 # Your website URL (e.g. https://nyu-ossd-s18.github.io/weekly )
 # Replace the last part by the name of your own repository. It should be "/weekly-" followed by your username. 
-url: "https://nyu-ossd-s18.github.io/weekly" 
+url: "https://nyu-ossd-s18.github.io/mel501-weekly" 
 
 # CUSTOMIZE
 # Replace this with the name of your own repository. It should be "/weekly-" followed by your username.
-baseurl: "/weekly"
+baseurl: "/mel501-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
