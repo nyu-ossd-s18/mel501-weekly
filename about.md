@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Melissa!  
 
-### More Information
+I'm a second-semester senior at New York University majoring in Computer Science and minoring in Mathematics. In July, I will begin working full-time for [Google](https://careers.google.com/) in NYC. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my [personal portfolio here](https://melello.com/)!
 
