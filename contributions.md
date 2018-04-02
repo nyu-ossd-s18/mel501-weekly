@@ -1,6 +1,6 @@
 | Week | Contribution | Type |
-| :---: | :--- | :---: |
-| 3 | [Opened an issue with class meeting times](https://github.com/joannakl/cs480_s18/issues/30) | class website |
+| :---: | --- | :---: |
+| 3 | [Opened an issue with class meeting times](https://github.com/joannakl/cs480_s18/issues/30) | class_website |
 | 3 | [Opened an issue with Open Encyclopedia slides link](https://github.com/joannakl/cs480_s18/issues/29)   | class website |
 | 3 | [Commented on issue with clarifying example](https://github.com/joannakl/cs480_s18/issues/20) | class website |
 | 3 | [Commented on issue with suggested fix](https://github.com/joannakl/cs480_s18/issues/7)   | class website |
