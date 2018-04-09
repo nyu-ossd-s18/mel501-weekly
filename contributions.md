@@ -15,3 +15,5 @@
 | 6 | [**Phaser**: Submitted a pull request to fix issue for Phaser](https://github.com/photonstorm/phaser/pull/3298) | other |
 | 10 | [**Phaser**: Suggested fix for Geom/Point/Clone example](https://github.com/photonstorm/phaser3-examples/issues/46) | other |
 | 10 | [**Phaser**: Submitted PR (merged) for Geom/Point/Clone fix](https://github.com/photonstorm/phaser3-examples/pull/95) | other |
+| 11 | [**Phaser**: Commented on three issues #51, #53, #54 to claim](https://github.com/photonstorm/phaser3-examples/issues/54) | other |
+| 11 | [**Phaser**: Submitted PR for three issues above](https://github.com/photonstorm/phaser3-examples/pull/105) | other |
