@@ -18,3 +18,7 @@
 | 11 | [**Phaser**: Commented on three issues #51, #53, #54 to claim](https://github.com/photonstorm/phaser3-examples/issues/54) | other |
 | 11 | [**Phaser**: Submitted PR for three issues above](https://github.com/photonstorm/phaser3-examples/pull/105) | other |
 | 12 | [**7-Eleven**: Replaced broken reference to source](https://en.wikipedia.org/w/index.php?title=7-Eleven&diff=prev&oldid=835564077) | wikipedia |
+| 12 | [**Phaser**: Posted an issue for missing src/math examples](https://github.com/photonstorm/phaser3-examples/issues/113) | other |
+| 12 | [**Phaser**: Commented on issue with suggested fix for Normalize issue](https://github.com/photonstorm/phaser3-examples/issues/52) | other |
+| 12 | [**Phaser**: Submitted PR for fix in Geom/Line/Perp Slope](https://github.com/photonstorm/phaser3-examples/pull/114) | other |
+| 12 | [**Phaser**: Submitted PR for fix in Geom/Polygon/Clone](https://github.com/photonstorm/phaser3-examples/pull/116) | other |
