@@ -43,7 +43,8 @@ _Individual Contributions = 20_
 | 12 | [**Phaser 3 Examples**: Commented on issue with suggested fix for Normalize issue](https://github.com/photonstorm/phaser3-examples/issues/52) |
 | 12 | [**Phaser 3 Examples**: Submitted PR for fix in Geom/Line/Perp Slope](https://github.com/photonstorm/phaser3-examples/pull/114) |
 | 12 | [**Phaser 3 Examples**: Submitted PR for fix in Geom/Polygon/Clone](https://github.com/photonstorm/phaser3-examples/pull/116) |  
+| 13 | [**Phaser 3 Examples**: Submitted PR for new Geom/Ellipse/Circumference Point example](https://github.com/photonstorm/phaser3-examples/pull/138) |
 
-_Team Contributions = 8_
+_Team Contributions = 9_
 
-**Contributions = 20 Individual + 8 Team = 28 Total**
+**Contributions = 20 Individual + 9 Team = 29 Total**
