@@ -1,3 +1,5 @@
+## Individual Contributions  
+
 | Week | Contribution | Type |
 | :---: | --- | :---: |
 | 3 | [Opened an issue with class meeting times](https://github.com/joannakl/cs480_s18/issues/30) | class_website |
@@ -23,7 +25,7 @@
 
 _Individual Contributions = 20_
 
-# Phaser Team Contributions  
+## Phaser Team Contributions  
 
 | Week | Contribution |
 | :---: | --- |
