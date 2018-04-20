@@ -1,4 +1,10 @@
-## Individual Contributions  
+---
+layout: page
+title: Contributions
+permalink: /contributions/
+---
+
+### Individual Contributions  
 
 | Week | Contribution | Type |
 | :---: | --- | :---: |
@@ -25,7 +31,7 @@
 
 _Individual Contributions = 20_
 
-## Phaser Team Contributions  
+### Phaser Team Contributions  
 
 | Week | Contribution |
 | :---: | --- |
