@@ -1,4 +1,3 @@
-## Individual Contributions
 | Week | Contribution | Type |
 | :---: | --- | :---: |
 | 3 | [Opened an issue with class meeting times](https://github.com/joannakl/cs480_s18/issues/30) | class_website |
@@ -20,11 +19,12 @@
 | 13 | [**p5.js**: Submitted PR to update documentation](https://github.com/processing/p5.js-web-editor/pull/619) | other |
 | 13 | [**React-Materialize**: Submitted PR for corrected typo](https://github.com/react-materialize/react-materialize/pull/529) | other |
 | 13 | [**Phaser CE**: Submitted PR for update in Stage.js](https://github.com/photonstorm/phaser-ce/pull/527) | other |
-| 13 | [**Less**: Submitted PR for capitalization inconsistencies](https://github.com/less/less-docs/pull/476) | other |
+| 13 | [**Less**: Submitted PR for capitalization inconsistencies](https://github.com/less/less-docs/pull/476) | other |  
 
 _Individual Contributions = 20_
 
-## Phaser Team Contributions
+# Phaser Team Contributions  
+
 | Week | Contribution |
 | :---: | --- |
 | 10 | [**Phaser 3 Examples**: Suggested fix for Geom/Point/Clone example](https://github.com/photonstorm/phaser3-examples/issues/46) |
@@ -34,7 +34,7 @@ _Individual Contributions = 20_
 | 12 | [**Phaser 3 Examples**: Posted an issue for missing src/math examples](https://github.com/photonstorm/phaser3-examples/issues/113) |
 | 12 | [**Phaser 3 Examples**: Commented on issue with suggested fix for Normalize issue](https://github.com/photonstorm/phaser3-examples/issues/52) |
 | 12 | [**Phaser 3 Examples**: Submitted PR for fix in Geom/Line/Perp Slope](https://github.com/photonstorm/phaser3-examples/pull/114) |
-| 12 | [**Phaser 3 Examples**: Submitted PR for fix in Geom/Polygon/Clone](https://github.com/photonstorm/phaser3-examples/pull/116) |
+| 12 | [**Phaser 3 Examples**: Submitted PR for fix in Geom/Polygon/Clone](https://github.com/photonstorm/phaser3-examples/pull/116) |  
 
 _Team Contributions = 8_
 
